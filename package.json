@@ -1,0 +1,28 @@
+{
+  "name": "adib-public",
+  "description": "A gcloud project for cloud web app",
+  "version": "0.0.1",
+  "scripts": {
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Indefy/adibpublic"
+  },
+  "keywords": [],
+  "author": "Adi Booker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indefy/adibpublic/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+  },
+  "homepage": "https://github.com/Indefy/adibpublic",
+  "main": "index.js",
+  "devDependencies": {
+    "react-is": "^18.2.0"
+  },
+  "dependencies": {
+    "react-is": "^18.2.0"
+  }
+}
